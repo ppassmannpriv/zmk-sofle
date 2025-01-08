@@ -61,8 +61,8 @@ layers:
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - $$mdi:keyboard-space$$
   - lyr_zer0
-  - lyr_2
   - {t: '$$mdi:keyboard-return$$', type: enter}
+  - lyr_2
   - $$mdi:backspace-reverse-outline$$
   lyr_1:
   - {t: '`', s: '~'}
@@ -191,8 +191,8 @@ layers:
   - $$mdi:mouse-left-click-outline$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
+  - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
   lyr_zer0:
   - $$mdi:keyboard-esc$$
